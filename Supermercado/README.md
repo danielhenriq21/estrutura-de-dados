@@ -1,6 +1,6 @@
 # Trabalho Estrutura de dados
-## Daniel Henrique Rodrigues da Silva
-## UC20104282
+Daniel Henrique Rodrigues da Silva
+UC20104282
 
 # Sistema de Supermercado em C
 
